@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/0027-remove-element) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0605-can-place-flowers](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [1528-shuffle-string](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/1528-shuffle-string) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/0027-remove-element) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [2396-strictly-palindromic-number](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
 |  |
