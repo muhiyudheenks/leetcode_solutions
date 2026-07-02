@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0605-can-place-flowers](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/0605-can-place-flowers) |
+| [1512-number-of-good-pairs](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/1528-shuffle-string) |
 | [1929-concatenation-of-array](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/0001-two-sum) |
+| [1512-number-of-good-pairs](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/1512-number-of-good-pairs) |
 | [3668-restore-finishing-order](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/3668-restore-finishing-order) |
 ## Linked List
 |  |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/0009-palindrome-number) |
+| [1512-number-of-good-pairs](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/1512-number-of-good-pairs) |
 | [2396-strictly-palindromic-number](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/2396-strictly-palindromic-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -91,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/2396-strictly-palindromic-number) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
