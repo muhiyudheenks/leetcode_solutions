@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0605-can-place-flowers](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [1528-shuffle-string](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/1528-shuffle-string) |
+| [1929-concatenation-of-array](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/2942-find-words-containing-character) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1929-concatenation-of-array](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3838-weighted-word-mapping](https://github.com/muhiyadheenks/leetcode_solutions/tree/master/3838-weighted-word-mapping) |
